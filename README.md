@@ -8,6 +8,7 @@ This project is a mobile application developed using React Native as part of the
 - [Components](#components)
 - [Navigation](#navigation)
 - [Styling](#styling)
+- [Screenshots](#Screenshots)
 
 ## Usage
 
@@ -60,3 +61,28 @@ The drawer navigator is defined in `App.js` with the following routes:
 
 The styles for each component are defined using `StyleSheet` from React Native. Each component has its own styles to ensure modularity and maintainability. The application has different styles for dark mode and light mode.
 
+## Screenshots
+
+- Welcome Page
+![welcomePage](./screenshots/welcome-page.PNG)
+
+- Menu Page
+
+![menuPage](./screenshots/menu-front.PNG)
+![menuItems](./screenshots/menu-page.PNG)
+
+- Log-in Page
+
+![login](./screenshots/login-page.jpeg)
+
+- Feedback Page
+
+![feedback](./screenshots/feedback-page.PNG)
+
+- Drawer Menu
+
+![drawer](./screenshots/drawer.PNG)
+
+- Example error message
+
+![error](./screenshots/error-alert.PNG)
