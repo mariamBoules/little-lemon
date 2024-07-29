@@ -5,7 +5,6 @@ This project is a mobile application developed using React Native as part of the
 ## Table of Contents
 
 - [Usage](#usage)
-- [Project Structure](#project-structure)
 - [Components](#components)
 - [Navigation](#navigation)
 - [Styling](#styling)
@@ -14,27 +13,6 @@ This project is a mobile application developed using React Native as part of the
 
 This application consists of multiple screens that can be navigated using a drawer navigator. The main screens include a welcome screen, a menu screen, a login page, and a feedback form.
 
-## Project Structure
-
-\```
-.
-├── App.js
-├── components
-│   ├── littleLemonFooter.js
-│   ├── littleLemonHeader.js
-│   ├── welcomeScreen.js
-│   ├── menuItems.js
-│   ├── feedbackForm.js
-│   └── loginPage.js
-├── assets
-│   └── img
-│       ├── littleLogo.png
-│       ├── picture1.png
-│       ├── picture2.png
-│       ├── picture3.png
-│       └── picture4.png
-└── package.json
-\```
 
 ## Components
 
